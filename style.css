@@ -1,0 +1,20 @@
+.navbar {
+  font-family: Rockwell;
+}
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #0087af;
+  color: white;
+  font-family: Rockwell;
+}
+#projects {
+  background-color: #0087af;
+  color: rgb(0, 0, 0);
+}
+
+section {
+  padding-top: 7rem;
+}
+#about {
+  text-align: end;
+}
